@@ -1,0 +1,24 @@
+<wpml-config>
+    <admin-texts>
+        <key name="theme_mods_bosa-educare">
+            <key name="featured_pages_section_title" />
+            <key name="featured_pages_section_description" />
+            <key name="feature_posts_two_section_title" />
+            <key name="feature_posts_two_section_description" />
+            <key name="header_advertisement_text" />
+            <key name="fact_one_title" />
+            <key name="fact_two_title" />
+            <key name="fact_three_title" />
+            <key name="fact_four_title" />
+            <key name="fact_five_title" />
+            <key name="fact_one_content" />
+            <key name="fact_two_content" />
+            <key name="fact_three_content" />
+            <key name="fact_four_content" />
+            <key name="fact_five_content" />
+            <key name="blog_advert_one_label" />
+            <key name="blog_advert_two_label" />
+            <key name="blog_advert_three_label" />
+        </key>
+    </admin-texts>
+</wpml-config>

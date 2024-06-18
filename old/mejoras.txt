@@ -1,0 +1,11 @@
+
+-Make the buttons roundish
+-don't use red as a background color everywhere
+-create a footer everywhere with the appropiate information that it's normally included there
+-get inspiration from: https://www.directespanol.com/classes (except in anything that I told you taht contradicts it). 
+-Make sure you include in the pages the latest SEO techniques to make sure the pages are indexed and well positioned in Google
+-be creative and try to think about what a customer wants to see in terms of a professional page
+-i would like to create a new page called "BOOK YOUR LESSON" (at the same level that about and the others) that is the result when you click BOOK and use the content of this other page and integrate it as a frame: https://adolfojuan.github.io/stripe-pricing-table/stripeppayment.html
+-Make sure that the red used in all the pages is more similar to the same kind of red used on this page: https://adolfojuan.github.io/stripe-pricing-table/stripeppayment.html
+- make sure that the size of the frame for the youtube video is the standard size of a youtube video. 
+-I'm gonna give you some images at the same time. they will be in the main directory. I want you to include them in the different pages (judge what's best we can tweak later). 

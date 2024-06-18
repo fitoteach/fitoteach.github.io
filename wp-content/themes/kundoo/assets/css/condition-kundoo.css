@@ -1,0 +1,19 @@
+.post-section{
+	padding-top: 12rem!important;
+    background-color: var(--bs-white)!important;
+}
+.post-section.bg-secondary .heading-default h2{
+	color: var(--bs-secondary)!important;
+}
+
+@media (max-width: 1200px) {
+	.post-section{
+		padding-top: 10rem !important;
+	}
+}
+
+@media (max-width: 768px) {
+	.post-section{
+		padding-top: 3rem !important;
+	}
+}
