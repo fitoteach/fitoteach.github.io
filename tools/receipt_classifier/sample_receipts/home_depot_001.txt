@@ -1,0 +1,7 @@
+Home Depot
+123 Build Ave
+03/16/2026
+2x Drywall Sheets 48.00
+Concrete Mix 23.50
+Sales Tax 5.72
+Total 77.22
