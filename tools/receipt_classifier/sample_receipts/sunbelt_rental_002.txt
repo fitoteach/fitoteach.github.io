@@ -1,0 +1,7 @@
+Sunbelt Rentals
+Rental agreement
+2026-03-15
+Scissor Lift Rental 1 day 210.00
+Fuel charge 14.00
+Tax 18.72
+Amount Due 242.72

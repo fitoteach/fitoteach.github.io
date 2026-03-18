@@ -1,0 +1,4 @@
+filename,vendor,date,subtotal,tax,total,category,confidence,matched_keywords,notes
+city_permit_003.txt,City of Austin Development Services,2026-03-14,,,415.0,permits_and_fees,1.0,"inspection, permit",
+home_depot_001.txt,Home Depot,2026-03-16,71.5,5.72,77.22,materials,1.0,"concrete, drywall",
+sunbelt_rental_002.txt,Sunbelt Rentals,2026-03-15,224.0,18.72,242.72,equipment_rental,0.75,"rent, rental, scissor lift",
